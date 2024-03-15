@@ -1,2 +1,5 @@
 ################### This repo is for research & testing only ###################
-https://app.tea.xyz/)https://app.tea.xyz/
+Web: https://app.tea.xyz/
+Twitter: https://twitter.com/teaprotocol
+
+My OSS Name: sasha-tea-testnet
